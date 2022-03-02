@@ -14,6 +14,8 @@ const Header = () => {
           Welcome to my website! This is a simple React App for me to practice my
           skills for work. I hope to transition this into a working personal portfolio. 
           The assets and architecture are courtesy of JS mastery. 
+
+          HERE IS A TEST
         </p>
 
         <div className="gpt3__header-content__input">
