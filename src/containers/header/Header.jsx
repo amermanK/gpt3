@@ -8,13 +8,12 @@ const Header = () => {
     <div className="gpt3__header section__padding" id="home">
       <div className="gpt3__header-content">
         <h1 className="gradient__text">
-          Let’s Build Something amazing with GPT-3 OpenAI
+          Kristoffer Amerman
         </h1>
         <p>
-        Yet bed any for travelling assistance indulgence unpleasing. 
-        Not thoughts all exercise blessing. Indulgence way everything 
-        joy alteration boisterous the attachment. Party we years to 
-        order allow asked of.
+          Welcome to my website! This is a simple React App for me to practice my
+          skills for work. I hope to transition this into a working personal portfolio. 
+          The assets and architecture are courtesy of JS mastery. 
         </p>
 
         <div className="gpt3__header-content__input">
