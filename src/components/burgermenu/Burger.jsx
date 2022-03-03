@@ -4,7 +4,7 @@ import './burger.scss';
 
 
 const Burger = () => {
-    const [status, setStatus] = useState('open');
+    const [status, setStatus] = useState('close');
     return (
         <div 
             className='Burger__container'
